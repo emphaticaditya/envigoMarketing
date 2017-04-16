@@ -1,0 +1,111 @@
+.parallax_img {
+    height: 500px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+}
+@media screen and (max-width: 768px) {
+.parallax_img {
+    background-attachment: inherit;
+}
+}
+div#img1{
+    background-image: url("http://wallpapercave.com/wp/nkTc1C9.jpg");
+
+}
+div#img2{
+    background-image: url("http://cdn.pcwallart.com/images/bokeh-city-lights-wallpaper-3.jpg");
+}
+div#img3{
+    background-image: url("http://pixelxpress.ca/wp-content/uploads/2014/09/blurred-city-lights-night.jpg");
+}
+div#img4{
+    background-image: url("http://wallpapercave.com/wp/nIyRdJq.jpg");
+}
+div#img5{
+    background-image: url("https://static.pexels.com/photos/30732/pexels-photo-30732.jpg");
+}
+div#img6{
+    background-image: url("https://static.pexels.com/photos/1089/city-lights-night-street.jpg");
+}
+
+
+
+.parallaxContent h1{
+    padding-top: 40%;
+    color: white;
+}
+.parallaxContent h4{
+    padding-bottom: 40%;
+    color: white;
+
+}
+
+
+div.card-block input{
+    border: none;
+    height: 5px;
+
+}
+button.btn.btn-primary{
+    background-color: #d32f2f;
+
+}
+
+button.btn.btn-primary a{
+    color: white;
+}
+
+.footer{
+    background-color: #373a3c;
+    padding: 5%;
+}
+.about p{
+    color: white;
+}
+li.nav-item a.nav-link{
+    color: white;
+}
+
+#head{
+    background-color: #373a3c;
+}
+
+.navbar-brand a p{
+    color: white;
+}
+#one{
+    color: #373a3c;
+}
+#two{
+    color: #373a3c;
+}
+#three{
+    color: #373a3c;
+}
+#four{
+    color: #373a3c;
+}
+
+#one:hover{
+    color: #d32f2f;
+}
+#two{
+    color: #373a3c;
+}
+#three{
+    color: #373a3c;
+}
+#four{
+    color: #373a3c;
+}
+
+#try{
+
+    margin-left: 34%;
+}
+
+
+
+

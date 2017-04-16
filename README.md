@@ -1,2 +1,4 @@
 # envigoMarketing
-# envigoMarketing
+
+Steps: 
+Clone and run 
